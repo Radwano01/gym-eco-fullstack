@@ -1,0 +1,96 @@
+.products{
+    background-color: black;
+    .products-container{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-direction: column;
+
+        .type{
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            flex-direction: column;
+            color: white;
+        }
+
+        .cards{
+            display: grid;
+            grid-template-columns: repeat(3, 3fr);
+            margin: auto;
+            padding: 20px;
+            .card{
+                padding: 20px;
+                margin: 20px;
+                border-radius: 20px;
+                background-color: white;
+                display: flex;
+                align-items: center;
+                justify-content: center;
+                flex-direction: column;
+                box-shadow: 0px 2px 4px 2px white;
+                transition: 0.3s;
+                .img{
+                    img{
+                        height: 300px;
+                        width: 250px;
+                        border-radius: 10px;
+                    }
+                }
+                .price{
+                    span{
+                        text-decoration-line: line-through;
+                        color: rgba(59,59,59,0.8);
+                        font-size: 15px;
+                    }
+                }
+                .button{
+                    button{
+                        padding: 12px 20px;
+                        border-radius: 20px;
+                        border: none;
+                        background-color: black;
+                        color: white;
+                        cursor: pointer;
+                        font-size: 16px;
+                        transition: 0.3s;
+                        a{
+                            color: white;
+                        }
+                    }
+                    button:hover{
+                        transform: scale(1.1);
+                        box-shadow: 0px 3px 3px  white;
+                    }
+                }
+            }
+            .card:hover{
+                transform: scale(1.1);
+            }
+        }
+    }
+}
+
+@media (min-width:768px) and (max-width:1024px){
+    .products{
+        .products-container{
+            .cards{
+                display: grid;
+                grid-template-columns: repeat(2, 2fr);
+            }
+        }
+    }
+}
+
+@media screen and (max-width:768px){
+    .products{
+        .products-container{
+            .cards{
+                display: flex;
+                align-items: center;
+                justify-content: center;
+                flex-direction: column;
+            }
+        }
+    }
+}

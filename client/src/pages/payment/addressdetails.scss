@@ -1,0 +1,64 @@
+.checkout {
+    position: relative;
+    color: black;
+    background-color: white;
+    margin: auto;
+    width: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    border-radius: 20px;
+    padding: 10px 0 0 0;
+  
+    .checkout-card {
+        display: flex;
+        align-items: baseline;
+        justify-content: center;
+        flex-direction: column;
+        width: 50%;
+        margin: auto;
+        max-width: 500px;
+        padding: 1rem;
+        h3 {
+            font-weight: 300;
+        }
+       
+          button{
+            padding: 7px 15px;
+            background-color: black;
+            color: white;
+            border: none;
+            cursor: pointer;
+          }
+        
+    }
+  
+    form {
+      width: 100%;
+      display: flex;
+  
+      div {
+        width: 100%;
+      }
+  
+      label {
+        display: block;
+        font-size: 1.4rem;
+        font-weight: 500;
+      }
+      input[type="text"],
+      .select,
+      .card-details {
+        display: block;
+        font-size: 1.6rem;
+        font-weight: 300;
+        padding: 1rem;
+        margin: 1rem auto;
+        width: 100%;
+        border: 1px solid #777;
+        border-radius: 3px;
+        outline: none;
+      }
+    }
+  }

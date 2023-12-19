@@ -1,0 +1,45 @@
+.section{
+    background-color: black;
+    padding: 30px;
+    .first-section{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+
+        .cards{
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            width: 80%;
+
+            .card{
+                display: flex;
+                align-items: center;
+                justify-content: center;
+                color: white;
+
+                .icon{
+                    padding: 10px;
+                }
+            }
+
+            .wall{
+                color: white;
+            }
+        }
+    }
+}
+
+@media screen and (max-width:768px){
+    .section{
+        .first-section{
+            .cards{
+                display: flex;
+                flex-direction: column;
+                .card{
+                    margin: 10px;
+                }
+            }
+        }
+    }
+}

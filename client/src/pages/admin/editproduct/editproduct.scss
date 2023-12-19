@@ -1,0 +1,76 @@
+.editproduct{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+
+    .title{
+        width: 100%;
+    }
+
+    .form{
+        form{
+            display: flex;
+            align-items: baseline;
+            justify-content: center;
+            flex-direction: column;
+            .form-input{
+                label{
+                    font-size: 20px;
+                }
+
+                input {
+
+                    width: 100%;
+                    padding: 10px 10px 10px 10px;
+                    margin: 10px 0 10px 0;
+                }
+
+                select{
+                    width: 100%;
+                    padding: 7px 15px 7px 15px;
+                    margin: 10px;
+                    font-size: 15px;
+
+                    option{
+                        font-size: 15px;
+                    }
+                }
+                .image-input{
+                    display: flex;
+                    width: 80%;
+                }
+
+            }
+
+            .form-check{
+                label{
+                    font-size: 20px;
+                }
+                span{
+                    font-size: 18px;
+                    padding: 5px;
+                }
+                input{
+                    margin: 10px;
+                }
+            }
+
+
+            .button{
+                button{
+                    width: 100%;
+                    padding: 5px 10px 5px 10px;
+                    margin: 10px;
+                    background-color: black;
+                    color: white;
+                    cursor: pointer;
+                    border: none;
+                }
+            }
+
+
+        }
+    }
+}

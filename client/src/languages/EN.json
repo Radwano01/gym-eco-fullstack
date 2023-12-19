@@ -1,0 +1,157 @@
+{
+    "Navbar-Admin": "Admin",
+    "Navbar-Home": "Home",
+    "Navbar-Products": "Products",
+    "Navbar-Contact": "Contact Us",
+    "Navbar-Orders": "My Orders",
+
+    "Slider-Title": "Quality, Comfort",
+    "Slider-Text": "Your perfect Shop for Compression Shirts",
+    "Slider-Button": "Shop Now",
+
+    "Section-Title-one": "Secure Payment with PayTR",
+    "Section-text-one": "Secure payment process.",
+    "Section-Title-two": "Secure Payment with PayTR",
+    "Section-text-two": "Secure payment process.",
+    "Section-Title-three": "Secure Payment with PayTR",
+    "Section-text-three": "Secure payment process.",
+
+    "Popular-Type": "POPULAR",
+    "Popular-Title": "Our Best selling Products",
+    "Popular-Text": "Create your new style with our compression shirts",
+    "Popular-Product-Button": "Shop Now",
+    "Popular-Button": "All Products",
+
+    "Testimonial-Type": "TESTIMONIALS",
+    "Testimonial-Title": "Loved by all our customers",
+    "Testimonial-Text": "Reviews from Satisfied Customers",
+
+    "About-Title": "About Us",
+    "About-Text-Line-One": "Chiwears is a store that offers high-quality and comfortable compression shirts.",
+    "About-Text-Line-Two": " Our products are designed to enhance athletes performance and accelerate muscle recovery.",
+
+    "Question-Title": "Frequently Asked Questions",
+    "Question-Text": "Still have questions? You can reach us at support@chiwears.com",
+    "Question-Ask-One": "When Will My Order Be Shipped", 
+    "Question-Answer-One": "Orders are typically processed and shipped within 3 business days after purchase.", 
+    "Question-Ask-Two": "When Will My Order Be Shipped", 
+    "Question-Answer-Two": "Orders are typically processed and shipped within 3 business days after purchase.", 
+    "Question-Ask-Three": "When Will My Order Be Shipped", 
+    "Question-Answer-Three": "Orders are typically processed and shipped within 3 business days after purchase.", 
+    "Question-Ask-Four": "When Will My Order Be Shipped", 
+    "Question-Answer-Four": "Orders are typically processed and shipped within 3 business days after purchase.", 
+
+    "Footer-About-Title": "About Us",
+    "Footer-About-Text-Line-One": "Chiwears is a store that offers high-quality",
+    "Footer-About-Text-Line-Two":"and comfortable compression shirts.",
+    "Footer-About-Text-Line-Three":"Our products are designed to enhance athletes",
+    "Footer-About-Text-Line-Four":"performance and accelerate muscle recovery.",
+    "Footer-Company-Title": "Company",
+    "Footer-Company-Section-One": "Products",
+    "Footer-Company-Section-Two": "Contact Us",
+    "Footer-Company-Section-Three": "Order Status",
+    "Footer-Company-Section-Four": "Privacy Policy",
+    "Footer-Send-Email-Title": "Subscribe",
+    "Footer-Send-Email-Text-Line-One": "Latest news arrivals & weekly",
+    "Footer-Send-Email-Text-Line-Two": "promotions sent to your inbox as",
+    "Footer-Send-Email-Button": "Subscribe",
+    "Footer-Copyright": "RADWAN © 2023. Template by LOGO.",
+
+
+
+    "_comment-products": "products page",
+    "Products-Title": "All Products",
+    "Products-Text": "All",
+    "Products-Button": "Shop Now",
+
+
+
+    "_comment-single-product": "single product page",
+    "SingleProduct-Arm-Size": "Arm Length",
+    "SingleProduct-Body-Size": "Body Size",
+    "SingleProduct-Color": "Color",
+    "SingleProduct-Quantity": "Quantity",
+    "SingleProduct-Button": "Add To Cart!",
+
+    "SingleProduct-Arm-Error-Message":"You must Select Arm size",
+    "SingleProduct-Sizes-Error-Message":"You must Select Body size",
+    "SingleProduct-Color-Error-Message":"You must Select Color",
+
+    "_comment-contact": "contact page",
+    "Contact-Title": "DO YOU HAVE ANY QUESTIONS? LET'S TALK.",
+    "Contact-Text": "If you have any questions, please contact us, and we will get back to you as soon as possible. You can also check our FAQ section.",
+    "Contact-Label-Name": "Name",
+    "Contact-Label-Surname": "Surname",
+    "Contact-Label-Email": "Email",
+    "Contact-Label-Button": "Send",
+
+ 
+
+    "Cart-Title": "Shoping Cart",
+    "Cart-Product": "Product",
+    "Cart-Price": "Price",
+    "Cart-Quantity": "Quantity",
+    "Cart-Total": "Total",
+    "Cart-Actions": "Actions",
+    "Cart-Arm-Size": "Arm Length",
+    "Cart-Body-Size": "Body Size",
+    "Cart-Color": "Color",
+    "Cart-Not-Found": "Your cart is currently empty",
+    "Cart-Continue": "Continue shopping",
+    "Cart-Clear": "Clear Cart",
+    "Cart-Subtotal": "Subtotal",
+    "Cart-Calculated-Checkout": "Tax an shipping calculated at checkout",
+    "Cart-Button": "Checkout Now!",
+
+
+    
+    "AddressDetails-Title": "Checkout Details",
+    "AddressDetails-Text": "Shipping Address",
+    "AddressDetails-Name": "Recipient Name",
+    "AddressDetails-Line-One": "Address line 1",
+    "AddressDetails-Line-Two": "Address line 2",
+    "AddressDetails-City": "City",
+    "AddressDetails-State": "State",
+    "AddressDetails-PostalCode": "Postal code",
+    "AddressDetails-Phone": "Phone",
+    "AddressDetails-Button": "CheckOut!",
+
+
+    "Profile-Name": "Name",
+    "Profile-Email": "Email",
+    "Profile-Button": "Sign Out",
+
+
+    
+    "CheckOutPage-Title":"CheckOut Page",
+    "CheckOutPage-Text":"Select The Payment",
+    "CheckOutPage-First-Payment":"IBAN",
+    "CheckOutPage-Second-Payment":"SOON",
+
+
+
+    "CheckOutIBAN-Total-Amount":"Total Amount",
+    "CheckOutIBAN-Direction":"Your Products",
+    "CheckOutIBAN-IBAN-Number":"IBAN Number",
+    "CheckOutIBAN-IBAN-Name":"IBAN Name",
+    "CheckOutIBAN-Bill":"Put the bill",
+    "CheckOutIBAN-Button":"Send",
+
+
+
+    "Order-Title":"My Orders",
+    "Order-Date":"Order Date",
+    "Order-Name":"Order name",
+    "Order-Amount":"Order Amount",
+    "Order-Status":"Order Status",
+
+
+
+    "OrderDetails-Product":"Product",
+    "OrderDetails-Price":"Price",
+    "OrderDetails-Quantity":"Quantity",
+    "OrderDetails-Total":"Total",
+    "OrderDetails-Arm-Length":"Arm Length",
+    "OrderDetails-Body-Size":"Body Size",
+    "OrderDetails-Color":"Color"
+}

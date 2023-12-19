@@ -1,0 +1,22 @@
+.info-box {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    margin-right: 1rem;
+    margin-bottom: 1rem;
+    padding: 20px;
+    .card-box {
+      height: 100%;
+      width: 150px;
+      border: 1px solid #ccc;
+      border-bottom: 3px solid lightblue;
+      padding: 5px;
+      background-color: #f5f6fa;
+    }
+  
+    span {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+    }
+  }

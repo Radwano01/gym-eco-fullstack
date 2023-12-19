@@ -1,0 +1,128 @@
+.navbar{
+    .navbar-container{
+        
+        .nav-btn{
+            cursor: pointer;
+            background: transparent;
+            border: none;
+            outline: none;
+            display: none;
+            opacity: 0;
+        }
+
+        .offer{
+            background-color: black;
+            color: white;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            padding:15px 0;
+            h2{
+                font-size: 18px;
+            }
+        }
+        .slider-navbar{
+            width: 55%;
+            position: sticky;
+            top: 0;
+            margin: auto;
+            display: flex;
+            align-items: center;
+            justify-content: space-around;
+            background-color: black;
+            color: white;
+            padding: 15px 0;
+            border-radius: 15px;
+            box-shadow: 0px 3px 3px 3px white;
+            
+            
+            .left-navbar{
+                cursor: pointer;
+                a{
+                    color: white;
+                }
+            }
+
+            .center-navbar{
+                ul{
+                    display: flex;
+                    align-items: center;
+                    justify-content: center;
+                    
+                    a{
+                        font-size: 18px;
+                        margin-right: 10px;
+                        font-weight: 600;
+                        color: white;
+                    }
+
+                    a:hover{
+                        border-bottom: 1px solid white;
+                    }
+                    a:active{
+                        transform: scale(0.8);
+                        transition: 0.5s;
+                    }
+
+                    a{
+                        color: white;
+                    }
+
+                    li button{
+                        background-color: transparent;
+                        color: white;
+                        border: none;
+                    }
+                }
+            }
+        }
+    }
+      
+}
+
+@media screen and (max-width:1024px){
+    .navbar{
+        .navbar-container{
+            .slider-navbar{
+                .nav-btn{
+                    display: flex;
+                    align-items: baseline;
+                    justify-content: center;
+                    opacity: 1;
+                }
+                .nav-btn.bar{
+                    margin-right: 10px;
+                }
+    
+                ul{
+                    position: fixed;
+                    top: 0;
+                    left: 0;
+                    height: 100%;
+                    width: 100%;
+                    display: flex;
+                    align-items: center;
+                    justify-content: center;
+                    flex-direction: column;
+                    gap: 1.5rem;
+                    background-color: black;
+                    color: white;
+                    transition: 1s;
+                    transform: translateY(-110vh);
+                    li{
+                        a{
+                            color: white;
+                        }
+                        h2{
+                            color: white;
+                        }
+                    }
+                }
+                .responsive-nav{
+                    transform: none;
+                }
+            }
+            
+        }
+    }
+}

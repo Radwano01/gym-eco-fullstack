@@ -1,0 +1,156 @@
+{
+    "Navbar-Admin": "Yönetim",
+    "Navbar-Home": "Ana Sayfa",
+    "Navbar-Products": "Ürünler",
+    "Navbar-Contact": "Bize Ulaşın",
+    "Navbar-Orders": "Siparişim",
+
+    "Slider-Title": "Kalite, Rahatlık",
+    "Slider-Text": "Compression shirtler için Tek Mağazanız",
+    "Slider-Button": "Şimdi Alişveriş Yap",
+
+    "Section-Title-one": "PayTR ile",
+    "Section-text-one": "Güvenli ödeme işlemi.",
+    "Section-Title-two": "PayTR ile",
+    "Section-text-two": "Güvenli ödeme işlemi.",
+    "Section-Title-three": "PayTR ile",
+    "Section-text-three": "Güvenli ödeme işlemi.",
+
+
+    "Popular-Type": "POPÜLER",
+    "Popular-Title": "En Çok Satan Ürünlerimiz",
+    "Popular-Text": "Compression shirtlerimizle yeni tarzınızı oluşturun",
+    "Popular-Product-Button": "Şimdi Alişveriş Yap",
+    "Popular-Button": "Tüm Ürünler",
+
+
+    "Testimonial-Type": "GÖRÜŞLER",
+    "Testimonial-Title": "Tüm müşterilerimiz Yorumları",
+    "Testimonial-Text": "Memnun Müşterilerimizden Görüşler",
+
+
+    "About-Title": "Hakkımızda",
+    "About-Text-Line-One": "Chiwears, kaliteli ve rahat compression shirtler sunan bir mağazadır.",
+    "About-Text-Line-Two": "Ürünlerimiz, sporcuların performansını artırmak ve kasların iyileşmesini hızlandırmak için tasarlanmıştır.",
+
+
+    "Question-Title": "Sıkça sorulan sorular",
+    "Question-Text": "Hala sorularınız mı var? Bize support@chiwears.com adresinden ulaşabilirsiniz",
+    "Question-Ask-One": "Siparişim Ne Zaman Gönderilecek",
+    "Question-answer-One": "Siparişler genellikle satın alındıktan sonraki 3 iş günü içinde işlenir ve gönderilir.",
+    "Question-Ask-Two": "Siparişim Ne Zaman Gönderilecek",
+    "Question-answer-Two": "Siparişler genellikle satın alındıktan sonraki 3 iş günü içinde işlenir ve gönderilir.",
+    "Question-Ask-Three": "Siparişim Ne Zaman Gönderilecek",
+    "Question-answer-Three": "Siparişler genellikle satın alındıktan sonraki 3 iş günü içinde işlenir ve gönderilir.",
+    "Question-Ask-Four": "Siparişim Ne Zaman Gönderilecek",
+    "Question-answer-Four": "Siparişler genellikle satın alındıktan sonraki 3 iş günü içinde işlenir ve gönderilir.",
+
+    "Footer-About-Title":"Hakkımızda",
+    "Footer-About-Text-Line-One":" Chiwears, kaliteli ve rahat compression",
+    "Footer-About-Text-Line-Two":" shirtler sunan bir mağazadır. Ürünlerimiz,",
+    "Footer-About-Text-Line-Three":" sporcuların performansını artırmak ve kasların",
+    "Footer-About-Text-Line-Four":"  iyileşmesini hızlandırmak için tasarlanmıştır.",
+    "Footer-Company-Title": "Şirket",
+    "Footer-Company-Section-One": "Ürünler",
+    "Footer-Company-Section-Two": "bize Ulaşın",
+    "Footer-Company-Section-Three": "Sipariş Durumu",
+    "Footer-Company-Section-Four": "Gizlilik Politikası",
+    "Footer-Send-Email-Title": "Abone Ol",
+    "Footer-Send-Email-Text-Line-One": "En son haberler gelenler & haftalık",
+    "Footer-Send-Email-Text-Line-Two": "olarak gelen kutunuza gönderilen promosyonlar.",
+    "Footer-Send-Email-Button": "Abone Ol",
+    "Footer-Copyright": "RADWAN © 2023. LOGO tarafından yapılan şablon.",
+    
+    
+    "_comment-products": "products page",
+    "Products-Title": "Tüm ürünler",
+    "Products-Text": "Hepsi",
+    "Products-Button": "Şimdi alişveriş yap",
+
+    "_comment-single-product": "single product page",
+    "SingleProduct-Arm-Size": "Kol uzunluğu",
+    "SingleProduct-Body-Size": "Beden",
+    "SingleProduct-Color": "Renk",
+    "SingleProduct-Quantity": "Miktar",
+    "SingleProduct-Button": "Hemen All!",
+    
+    "SingleProduct-Arm-Error-Message": "Kol boyutu seçmelisiniz",
+    "SingleProduct-Sizes-Error-Message": "Vücut boyutu seçmelisiniz",
+    "SingleProduct-Color-Error-Message": "Renk seçmelisiniz",
+    
+    "_comment-contact":"contact page",
+    "Contact-Title": "HERHANGİ BİR SORUNUZ VAR MI? HADİ KONUŞALIM.",
+    "Contact-Text": "Herhangi bir sorunuz varsa bize ulaşın mümkün olan en kısa sürede size geri döneceğiz. ayrıca SSS bölümümüze de göz atabilirsiniz.",
+    "Contact-Label-Name": "Adı",
+    "Contact-Label-Surname": "Soyadı",
+    "Contact-Label-Email": "E-Posta",
+    "Contact-Label-Button": "Gönder",
+
+
+    "Cart-Title": "Alışveriş Sepeti",
+    "Cart-Product": "Ürün",
+    "Cart-Price": "Fiyat",
+    "Cart-Quantity": "Miktar",
+    "Cart-Total": "Toplam",
+    "Cart-Actions": "İşlemler",
+    "Cart-Arm-Size": "Kol Uzunluğu",
+    "Cart-Body-Size": "Beden",
+    "Cart-Color": "Renk",
+    "Cart-Not-Found": "Sepetiniz şu anda boş",
+    "Cart-Continue": "Alışverişe Devam Et",
+    "Cart-Clear": "Sepeti Temizle",
+    "Cart-Subtotal": "Ara Toplam",
+    "Cart-Calculated-Checkout": "Vergi ve kargo, ödeme sırasında hesaplanacaktır",
+    "Cart-Button": "Şimdi Ödeme Yap!",
+
+
+    "AddressDetails-Title": "Ödeme Detayları",
+    "AddressDetails-Text": "Teslimat Adresi",
+    "AddressDetails-Name": "Alıcı Adı",
+    "AddressDetails-Line-One": "Adres Satırı 1",
+    "AddressDetails-Line-Two": "Adres Satırı 2",
+    "AddressDetails-City": "Şehir",
+    "AddressDetails-State": "Eyalet",
+    "AddressDetails-PostalCode": "Posta Kodu",
+    "AddressDetails-Phone": "Telefon",
+    "AddressDetails-Button": "Ödeme Yap!",
+
+
+    "Profile-Name": "Adı",
+    "Profile-Email": "E-Posta",
+    "Profile-Button": "Hesaptan çık",
+
+
+
+    "CheckOutPage-Title": "Ödeme Sayfası",
+    "CheckOutPage-Text": "Ödeme Seçin",
+    "CheckOutPage-First-Payment": "IBAN",
+    "CheckOutPage-Second-Payment": "YAKINDA",
+    
+    
+    
+    "CheckOutIBAN-Total-Amount": "Toplam Tutar",
+    "CheckOutIBAN-Direction": "Siparişleriniz",
+    "CheckOutIBAN-IBAN-Number": "IBAN Numarası",
+    "CheckOutIBAN-IBAN-Name": "IBAN Adı",
+    "CheckOutIBAN-Bill": "Faturayı Yükle",
+    "CheckOutIBAN-Button": "Gönder",
+    
+
+
+    "Order-Title": "Siparişlerim",
+    "Order-Date": "Sipariş Tarihi",
+    "Order-Name": "Sipariş Adı",
+    "Order-Amount": "Sipariş Tutarı",
+    "Order-Status": "Sipariş Durumu",
+    
+
+
+    "OrderDetails-Product": "Ürün",
+    "OrderDetails-Price": "Fiyat",
+    "OrderDetails-Quantity": "Miktar",
+    "OrderDetails-Total": "Toplam",
+    "OrderDetails-Arm-Length": "Kol Uzunluğu",
+    "OrderDetails-Body-Size": "Beden",
+    "OrderDetails-Color": "Renk"
+}

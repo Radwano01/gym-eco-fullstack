@@ -1,0 +1,11 @@
+.charts {
+    padding: 20px;
+    width: 70%;
+    margin: 0;
+    overflow: hidden;
+    .card {
+      padding: 1rem;
+      border: 1px solid #ccc;
+      border-bottom: 3px solid red;
+    }
+  }

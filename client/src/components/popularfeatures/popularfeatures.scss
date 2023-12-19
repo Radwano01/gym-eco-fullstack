@@ -1,0 +1,126 @@
+.popularfeatures{
+    background: url("../../assets/slider/popular-background.jpg") center;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    padding: 20px;
+    .popularfeatures-container{
+        .type{
+            color: white;
+        }
+        .popular-text{
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            flex-direction: column;
+            padding: 20px;
+            .title{
+                display: flex;
+                align-items: center;
+                justify-content: center;
+                flex-direction: column;
+                color: white;
+                h1{
+                    font-size: 50px;
+                }
+            }
+            .text{
+                color: white;
+            }
+        }
+        .cards{
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            // display: grid;
+            // grid-template-columns: repeat(3, 3fr);
+            width: 100%;
+            padding: 10px 0 10px 0;
+            margin: auto;
+
+            .card{
+                border-bottom: rgb(165, 165, 165) 1px solid;
+                padding: 20px;
+                margin: 20px;
+                border-radius: 20px;
+                background-color: white;
+                display: flex;
+                align-items: center;
+                justify-content: center;
+                flex-direction: column;
+                box-shadow: 0px 8px 8px 2px white;
+                transition: 0.3s;
+                .img{
+                    img{
+                        height: 350px;
+                        width: 270px;
+                        border-radius: 10px;
+                    }
+                }
+                .price{
+                    span{
+                        text-decoration-line: line-through;
+                        color: rgba(59,59,59,0.8);
+                        font-size: 15px;
+                    }
+                }
+                .button{
+                    a{
+                        padding: 12px 20px;
+                        border-radius: 20px;
+                        border: none;
+                        background-color: black;
+                        color: white;
+                        cursor: pointer;
+                        font-size: 16px;
+                        transition: 0.3s;
+                    }
+                    button:hover{
+                        transform: scale(1.1);
+                        box-shadow: 0px 3px 3px  black;
+                    }
+                }
+            }
+            .card:hover{
+                transform: scale(1.1);
+            }
+        }
+        .view-products{
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            .button{
+                button{
+                    padding: 15px 50px;
+                    border: none;
+                    border-radius: 35px;
+                    cursor: pointer;
+                    font-size: 20px;
+                    transition: 0.3s;
+                    a{
+                        color: black;
+                    }
+                }
+                button:hover{
+                    transform: scale(1.1);
+                    box-shadow: 0px 3px 3px  white;
+                }
+            }
+        }
+    }
+}
+
+@media screen and (max-width:1024px){
+    .popularfeatures{
+        .popularfeatures-container{
+            .cards{
+                display: flex;
+                align-items: center;
+                justify-content: center;
+                flex-direction: column;
+            }
+        }
+    }
+}

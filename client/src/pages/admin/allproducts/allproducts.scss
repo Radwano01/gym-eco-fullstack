@@ -1,0 +1,61 @@
+.table {
+    width: 100%;
+    overflow-x: auto;
+  
+    .search {
+      width: 100%;
+      max-width: 300px;
+    }
+  
+    table {
+      border-collapse: collapse;
+      width: 100%;
+      font-size: 1.4rem;
+  
+      thead {
+        border-top: 2px solid black;
+        border-bottom: 2px solid black;
+      }
+  
+      th {
+        border: 1px solid #eee;
+      }
+  
+      th,
+      td {
+        vertical-align: top;
+        text-align: left;
+        padding: 8px;
+        .icons{
+          cursor: pointer;
+        }
+        &.icons {
+          > * {
+            margin-right: 5px;
+            cursor: pointer;
+          }
+        }
+      }
+  
+      tr {
+        border-bottom: 1px solid #ccc;
+      }
+  
+      tr:nth-child(even) {
+        background-color: #eee;
+      }
+    }
+  .pagination{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    button{
+      margin: 5px 5px 5px 5px;
+      cursor: pointer;
+      padding: 5px 5px;
+      background-color: black;
+      color: white;
+      border: none;
+    }
+  }
+}

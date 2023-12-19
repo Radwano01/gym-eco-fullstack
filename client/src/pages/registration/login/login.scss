@@ -1,0 +1,44 @@
+.login{
+    height: 100vh;
+    background-color: black;
+    form{
+        height: 100%;
+        width: 50%;
+        margin: auto;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-direction: column;
+
+        h1{
+            color: white;
+        }
+
+        input{
+            margin: 5px;
+            padding: 5px 50px 5px 10px;
+            width: 25%;
+            height: 5%;
+            border-radius: 5px;
+            border: none;
+            border: 1px solid black;
+            cursor: pointer;
+            font-size: 15px;
+        }
+
+        button{
+            margin: 5px;
+            padding: 7px 50px;
+            border: none;
+            border-radius: 10px;
+            font-size: 15px;
+            cursor: pointer;
+        }
+
+        a{
+            color: white;
+            text-decoration: underline;
+            padding: 5px;
+        }
+    }
+}
